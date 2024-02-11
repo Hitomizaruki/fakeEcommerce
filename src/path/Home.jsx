@@ -48,10 +48,10 @@ function Home() {
     &&<>
     <section className="row vh-100 align-items-center hidden pt-5">
                     <div className="col-sm-12 col-md-6 col-lg-6 text-secondary ">
-                        <h2>Fake Store Shopping Website</h2>
+                        <h2>Fake Store  Website</h2>
                         <p>
-                            Webbootstrap. The most popular front-end framework for developing responsive,
-                            mobile first projects on the web. 165k. GitHub. package. MIT licensed. 
+                       Your life simplified by a smarter, better wardrobe.
+Our collection is sustainably made and designed to last.
                         </p>
                         <div className="btn btn-outline-success">Get Start</div>
                     </div>
@@ -63,27 +63,23 @@ function Home() {
 
                     <div className="col-sm-12 col-md-6 col-lg-4 text-secondary text-center">
                         <i className="bi bi-heart-fill fs-3 "></i>
-                        <h2> Extend utilities</h2>
+                        <h2> Fashion Finds</h2>
                         <p>
-                            Use Bootstrap's utility API to modify any of our included utilities or create your own custom utilities for any project.
-                            Import Bootstrap first, then use Sass map functions to modify, add, or remove utilities.
+                          Discover bags that are not only a style statement but also an incredible value. From iconic classics to trendy pieces, our selection offers a range of designer bags to fit any taste and budget.
                         </p>
                     </div>
                     <div className="col-sm-12 col-md-6 col-lg-4 text-secondary text-center">
                         <i className="bi bi-shop fs-3"></i>
-                        <h2> Discount price</h2>
+                        <h2> Most Popular</h2>
                         <p>
-                            Use Bootstrap's utility API to modify any of our included utilities or create your own custom utilities for any project.
-                            Import
-                             Bootstrap first, then use Sass map functions to modify, add, or remove utilities.
+                           Our most coveted list features timeless treasures, showcasing must-have bags from luxury icons like Louis Vuitton, Chanel, Gucci, and beyond.
                         </p>
                     </div>
                     <div className="col-sm-12 col-md-6 col-lg-4 text-secondary text-center">
                         <i className="bi bi-house fs-3"></i>
-                        <h2> Event Deliver House</h2>
+                        <h2> Over 50% Off Retail</h2>
                         <p>
-                            Use Bootstrap's utility API to modify any of our included utilities or create your own custom utilities for any project.
-                            Import Bootstrap first, then use Sass map functions to modify, add, or remove utilities.
+                            Uncover unbeatable savings with our selection of items that are discounted over 50% off their original retail price. These are not just deals; they are steals.
                         </p>
                     </div>
                 </section>
@@ -126,9 +122,8 @@ function Home() {
                     </div>
                     <div className="col-sm-12 col-md-6 text-secondary ">
                         <h2>Tearm and group</h2>
-                        <p>
-                            Use Bootstrap's utility API to modify any of our included utilities or create your own custom utilities for any project.
-                            Import Bootstrap first, then use Sass map functions to modify, add, or remove utilities.
+                         <p>
+                         Our Fake Store  bring the person in “personal.” They are virtual style experts -- real people -- trained to assist you with any questions or concerns you may have. Among many things, they can help you select the best item at your price point, review hardware and textiles, compare items that you are considering, and even verify important date codes. 
                         </p>
                         <div className="my-3">Category: Men</div>
                         <button className="btn btn-outline-success">Learn More</button>
