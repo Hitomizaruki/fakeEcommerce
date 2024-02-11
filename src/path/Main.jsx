@@ -14,41 +14,31 @@ function Main() {
        <Outlet/>
     </main>
     <footer className="p-3 bg-dark align-items-center text-secondary">
-        <h4 className="w-10 py-2">Create and extend utilities Create and extend </h4>
+        <h4 className="w-10 py-2">Fake store Approach </h4>
         <div className="row py-2">
                 <div className="col-sm-6 col-md-3">
-                    <h5>Card Name</h5>
+                    <h5>Wear-All-Day Comfort</h5>
                     <p>
-                        Use Bootstrap's utility API to modify any of our included utilities or create your own custom utilities for any project.
-                        Import Bootstrap first, then use Sass map functions to modify, add, or remove utilities.
+                      Lightweight, bouncy, and wildly comfortable, Allbirds shoes make any outing feel effortless. Slip in, lace up, or slide them on and enjoy the comfy support.
                     </p>
                 </div>
 
-                <div className="col-sm-6 col-md-3">
-                    <h5>Card Name</h5>
-                    <p>
-                        Use Bootstrap's utility API to modify any of our included utilities or create your own custom utilities for any project.
-                        Import Bootstrap first, then use Sass map functions to modify, add, or remove utilities.
-                    </p>
-                </div>
+                
 
                 <div className="col-sm-6 col-md-3">
-                    <h5>Card Name</h5>
+                    <h5>Sustainability In Every Step</h5>
                     <p>
-                        Use Bootstrap's utility API to modify any of our included utilities or create your own custom utilities for any project.
-                        Import Bootstrap first, then use Sass map functions to modify, add, or remove utilities.
+                        From materials to transport, we’re working to reduce our carbon footprint to near zero. Holding ourselves accountable and striving for climate goals isn’t a 30-year goal—it’s now.
                     </p>
                 </div>
                 
                 <div className="col-sm-6 col-md-3">
-                    <h5>Card Name</h5>
+                    <h5>Materials From The Earth</h5>
                     <p>
-                        Use Bootstrap's utility API to modify any of our included utilities or create your own custom utilities for any project.
-                        Import Bootstrap first, then use Sass map functions to modify, add, or remove utilities.
+                       We replace petroleum-based synthetics with natural alternatives wherever we can. Like using wool, tree fiber, and sugar cane. They’re soft, breathable, and better for the planet—win, win, win.
                     </p>
                 </div>
         </div>
-        <h5 className="w-10 py-2 d-flex justify-content-end">Developered by hitomizaruki@gmail.com</h5>
     </footer>
   
  </div>
